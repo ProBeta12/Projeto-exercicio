@@ -1,0 +1,15 @@
+calcular o numero fatorial
+
+solicitar um numero para o ususario inteiro positivo
+crie uma variavel fatorial que recebera o resultado da conta
+defina  a variavel fatorial igual a 1
+ iniciar um laço while que ira fazer a verificaçao se esse numero é negativo,
+ caso seja solicitar novamente o um numero para o usuario ate que seja positivo.
+
+ inicie um laço while que executara enquanto o numero for maior ou igual a 1
+ multiplique o numero escolhido pelo usuario com  a variavel fattorial deixando o resultado final na fatorial,
+ depois diminua 1 da variavel dada pelo usuario
+
+ apos sair do laço while escreva na tela a variavel fatorial
+ 
+ 

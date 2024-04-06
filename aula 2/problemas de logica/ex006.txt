@@ -1,0 +1,7 @@
+Jogo de adivinhar o numero 
+
+gere um numero aleatorio com o computador 
+crie um laço while que ira executar ate que o usuario acerte o numero,
+pessa oo usuario um numero
+verifique se ele é maior ou menor que o numero aleatorio gerado
+caso erre peça um novo numero para o usuario 

@@ -1,0 +1,7 @@
+tabuada interativa
+
+
+solicitar ao usuario um numero para fazer a tabuada
+solicitar ao usuario um numero especial de saida
+iniciar o laço while que ira sempre pedir um numero para a taboada ate que o numero de saida seja digitado parafinalizar o programa
+iniciar o laço for que tera 10 repetiçoes para descrever a taboada do numero escolhido pelo usuario
