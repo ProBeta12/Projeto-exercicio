@@ -1,4 +1,0 @@
-solicitar a conversao para o usuario
-solicitar um numero real
- fazer a conta matematica 
- mostrar o resultado para o usuario

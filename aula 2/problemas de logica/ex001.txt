@@ -1,9 +1,0 @@
-lobo, cordeiro e couve
-###  levar todos do lado 1 para o lado 2.
-levar primeiro o cordeiro para o outro lado 2,
-deixar ele no lado 2 e voltar para o lado 1,
-pegar o lobo no lado 1 e levar para o lado 2,
-deixar o lobo no lado 2 e pegar o cordeiro devolta para o lado 1,
-pegar a couve no lado 1 e deixar o cordeiro no lado 1, 
-deixar a couve no lado 2 e voltar para pegar o cordeiro no lado 1,
-pegar o cordeiro no lado 1 e atravessar para o lad
