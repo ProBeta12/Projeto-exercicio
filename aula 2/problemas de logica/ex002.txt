@@ -1,0 +1,11 @@
+adivinhe o numero primo
+
+
+gere o numero primo aleatorio 
+
+
+usuario coloca um numero para tentar adivinhar
+
+caso o numero nao seja o numero aleatorio, de a dica se o numero escolhido
+pelo usuario é multiplo do numero aleatorio
+usuario tenta denovo e erre, de a dica da subitraçao do numero aleatorio com o numero primo anterior a ele 

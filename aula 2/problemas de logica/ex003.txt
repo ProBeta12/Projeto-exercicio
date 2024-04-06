@@ -1,0 +1,18 @@
+contagem regressiva
+
+peça um numero para o usuario
+
+atribua a uma variavel
+
+inicio um loop que ira continuar ate q a variavel criada seja 0
+mostre o valor da variavel atual
+diminua 1 a ela e continue o programa 
+
+dados de entrada
+- numero inicial
+
+dados de saida
+- mensagem mostrando o numero atual contrando regressivamente
+- mensagem de finalizaçao mostrando que chegou no 0
+
+
