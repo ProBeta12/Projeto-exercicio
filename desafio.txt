@@ -1,0 +1,4 @@
+lobo = cordeiro
+cordeiro = couve
+humano pode levar um por vez
+ele leva o cordeiro, volta e leva o lobo, traz o cordeiro de volta, leva a couve e depois o cordeiro

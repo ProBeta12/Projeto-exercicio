@@ -1,0 +1,5 @@
+fazer um com que a maquina escolha de 1 a 100 algum numero primo, 
+apos isso faço um laço while pro usario escolher o numero aleatorio, 
+caso numero for igual ao escolhe da maquina repsonde com parabens, 
+caso não ele volta pro laço e manda mensagem dizendo que não é esse numero. 
+no total o userio sempre vai ter  25% de acerto.
