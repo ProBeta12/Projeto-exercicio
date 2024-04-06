@@ -1,0 +1,17 @@
+tabuada interativa:
+faço um programa que peça um numero inteiro e então faz a tabuada
+faço um laço pra toda vez o progrma imprima a tabuada e depois peça um novo numero
+se o que o usuario colocou a diferente de inteiro o programa manda um mensagem que não aceita esse e valor e fecha o programa
+
+calculadora fatorial:
+
+faço um programa que peça ao usuario um valor positivo e inteiro, e coloque num laço while, pra calcular a multiplicação dela até 1
+apos isso eu imprimo o numero que ele escolheu e o valor da fatorial dele.
+
+jogo de adivinho de numero:
+faço um programa em que a maquina escolha entre 1 a 100, apos isso eu pergunto pro usuario qual numero ele escolhe
+se o valor for maior ele manda uma mensagem, se for menor ele manda outra. O usuario fica nesse loop até achar o numero.
+
+conversor de temperatura:
+faço um programa onde ele pega a temperatura do usuario, e pede pra ele escolher converter pra Celsion ou Fahrenheit
+apos isso ele imprima na tela a temperatura. e apos isso o progrma pede novamente expliq
